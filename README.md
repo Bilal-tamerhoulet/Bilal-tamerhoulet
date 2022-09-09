@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/btamerhoulet" target="blank"><img src="https://img.shields.io/twitter/follow/btamerhoulet?logo=twitter&style=for-the-badge" alt="btamerhoulet" /></a> </p>
 
-- 📫 How to reach me **contact.bilaltam.me**
+- 📫 How to reach me **contact@bilaltam.me**
 
 - ⚡ Fun fact **I love kids**
 
