@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bilal tamerhoulet</h1>
 <h3 align="center">A passionate Js developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-tamerhoulet&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-tamerhoulet" /> </p>
+
 <p align="left"> <a href="https://twitter.com/btamerhoulet" target="blank"><img src="https://img.shields.io/twitter/follow/btamerhoulet?logo=twitter&style=for-the-badge" alt="btamerhoulet" /></a> </p>
 
 - 📫 How to reach me **contact@bilaltam.me**
