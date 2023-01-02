@@ -20,8 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilal-tamerhoulet&show_icons=true&locale=en&layout=compact" alt="bilal-tamerhoulet" /></p>
 
-<p align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-tamerhoulet&show_icons=true&locale=en" alt="bilal-tamerhoulet" /></p>
+
+<p align="left">
 <a href="https://app.daily.dev/bilo"><img src="https://api.daily.dev/devcards/edce1facd0974fb38f76a8015a33fab1.png?r=ls7" width="200" alt="Billel Tamerhoulet's Dev Card"/></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilal-tamerhoulet&show_icons=true&locale=en" alt="bilal-tamerhoulet" /></p>
